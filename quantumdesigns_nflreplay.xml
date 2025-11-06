@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Quantum Designs IPTV" source-info-name="QuantumDesignsIPTV">
+  <!-- Quantum Designs IPTV NFL Replay Channels -->
+  <channel id="nflreplay1.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 1</display-name>
+  </channel>
+  <channel id="nflreplay2.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 2</display-name>
+  </channel>
+  <channel id="nflreplay3.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 3</display-name>
+  </channel>
+  <channel id="nflreplay4.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 4</display-name>
+  </channel>
+  <channel id="nflreplay5.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 5</display-name>
+  </channel>
+  <channel id="nflreplay6.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 6</display-name>
+  </channel>
+  <channel id="nflreplay7.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 7</display-name>
+  </channel>
+  <channel id="nflreplay8.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 8</display-name>
+  </channel>
+  <channel id="nflreplay9.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 9</display-name>
+  </channel>
+  <channel id="nflreplay10.us">
+    <display-name>Quantum Designs IPTV – NFL Replay 10</display-name>
+  </channel>
+
+  <!-- Shared Description for All Replay Channels -->
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay1.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay2.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay3.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay4.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay5.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay6.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay7.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay8.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay9.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+
+  <programme start="20251106000000 -0500" stop="20251113000000 -0500" channel="nflreplay10.us">
+    <title>Quantum Designs IPTV — NFL Replays</title>
+    <desc>Replays from this past week’s NFL games in full HD. Each channel features a different matchup, updated weekly.</desc>
+  </programme>
+</tv>
